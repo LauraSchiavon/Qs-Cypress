@@ -1,15 +1,16 @@
-# Qs-Cypress
 
-#⚙️ Setup:
-To download the project, just run this command:
+## Setup
 
- git clone https://github.com/LuanR44/QS-Cypress
-Install npm and run this command to download dependencies:
+### 1. Clone o Projeto
 
-  npm install
-To work as expected, put the credentials in:
+Para baixar e inicar o projeto, execute os seguintes comandos no terminal:
 
-  cypress.env.json
-To run cypress use this command:
+```bash
+git clone https://github.com/LauraSchiavon/Qs-Cypress
 
-  npx cypress open
+npm install
+
+cypress.env.json
+
+npx cypress open
+
